@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.main_page{
+    margin:0% 5%;
+}
+
+table{
+    margin-top: 5%;
+    width: 100%;
+    border-collapse: collapse;
+}
+th{
+    padding: 15px 0px;  
+}
+td{
+    text-align: center;
+    padding: 15px 0px;   
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+.page_nos{
+    margin-top: 4%;
+    width: auto;
+    float: right;
+}
+
+.page_nos a{
+    padding: 8px 14px;
+}
+.page_nos div{
+    display: inline-block;
+}
+.page_nos a:hover{
+    cursor: pointer;
+}
+
+
